@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_change_negative_high">#ff2222</color>
+    <color name="widget_change_negative_medium">#ff6666</color>
+    <color name="widget_change_negative_low">#ffbbbb</color>
+    <color name="widget_change_none">#ffffff</color>
+    <color name="widget_change_positive_low">#bbffbb</color>
+    <color name="widget_change_positive_medium">#77ff77</color>
+    <color name="widget_change_positive_high">#00ff00</color>
+    <item name="change_negative_high_boundary" format="float" type="dimen">-0.12</item>
+    <item name="change_negative_medium_boundary" format="float" type="dimen">-0.06</item>
+    <item name="change_negative_low_boundary" format="float" type="dimen">-0.01</item>
+    <item name="change_positive_low_boundary" format="float" type="dimen">0.01</item>
+    <item name="change_positive_medium_boundary" format="float" type="dimen">0.06</item>
+    <item name="change_positive_high_boundary" format="float" type="dimen">0.12</item>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>

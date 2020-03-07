@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+	xmlns:tools="http://schemas.android.com/tools"
+	tools:ignore="MissingTranslation" >
+    
+    <!-- widget strings -->
+    <string name="app_name">PepeWidget</string>
+    <string name="widget_fixed_volume">V:</string>
+    <string name="widget_text">…</string>
+    <string name="refresh_toast">Updating…</string>
+
+    <string-array name="widget_sources">
+        <item>CoinMKTCap</item>
+        <item>Tux</item>
+        <item>Zaif</item>
+    </string-array>
+
+    
+    <!-- widget configuration strings -->
+    <string name="config_select_currency">Select currency:</string>
+    <string name="config_select_source">Select source:</string>
+    <string name="config_asset_prompt">Your PEPECASH:</string>
+    <string name="config_invert_prompt">Show value of currency in Pepecash</string>
+    <string name="config_ok_button">Done</string>
+
+    <string-array name="config_sources">
+        <item>CoinMarketCap</item>
+        <item>Tux Exchange</item>
+        <item>Zaif Exchange</item>
+    </string-array>
+
+
+    <!-- general purpose strings -->
+    <string-array name="coinmarketcap_currencies">
+        <item>US Dollars</item>
+        <item>Bitcoin</item>
+        <item>EU Euros</item>
+        <item>Chinese Yuan</item>
+        <item>UK Pounds</item>
+        <item>Canadian Dollars</item>
+        <item>Russian Rubles</item>
+        <item>Hong Kong Dollars</item>
+        <item>Japanese Yen</item>
+        <item>Australian Dollars</item>
+    </string-array>
+
+
+    <string-array name="bitcoinaverage_currencies">
+        <item>Bitcoin</item>
+        <item>Australian Dollars</item>
+        <item>Brazilian Reals</item>
+        <item>Canadian Dollars</item>
+        <item>Swiss Franks</item>
+        <item>Chinese Yuan</item>
+        <item>EU Euros</item>
+        <item>UK Pounds</item>
+        <item>Indonesian Rupiah</item>
+        <item>Israeli Sheqalim</item>
+        <item>Indian Rupees</item>
+        <item>Japanese Yen</item>
+        <item>South Korean Won</item>
+        <item>Mexican Pesos</item>
+        <item>Malaysian Ringgit</item>
+        <item>Nigerian Naira</item>
+        <item>New Zealand Dollars</item>
+        <item>Polish Złoty</item>
+        <item>Russian Rubles</item>
+        <item>Swedish Kronor</item>
+        <item>Singapore Dollars</item>
+        <item>Turkish Lira</item>
+        <item>US Dollars</item>
+        <item>South African Rand</item>
+    </string-array>
+
+    <string name="aud_symbol">A$</string>
+    <string name="brl_symbol">R$</string>
+    <string name="cad_symbol">C$</string>
+    <string name="chf_symbol">Fr</string>
+    <string name="cny_symbol">¥</string>
+    <string name="eur_symbol">€</string>
+    <string name="gbp_symbol">£</string>
+    <string name="hkd_symbol">HK$</string>
+    <string name="idr_symbol">Rp</string>
+    <string name="ils_symbol">₪</string>
+    <string name="inr_symbol">₹</string>
+    <string name="jpy_symbol">¥</string>
+    <string name="krw_symbol">₩</string>
+    <string name="mxn_symbol">$</string>
+    <string name="myr_symbol">RM</string>
+    <string name="nok_symbol">kr</string>
+    <string name="ngn_symbol">₦</string>
+    <string name="nzd_symbol">NZ$</string>
+    <string name="pln_symbol">zł</string>
+    <string name="ron_symbol">lei</string>
+    <string name="rub_symbol">р</string>
+    <string name="sek_symbol">kr</string>
+    <string name="sgd_symbol">S$</string>
+    <string name="try_symbol">&#8378;</string>
+    <string name="usd_symbol">$</string>
+    <string name="zar_symbol">R</string>
+
+
+    <string name="btc_symbol">฿</string>
+    <string name="sat_symbol">シ</string>
+    <string name="xmr_symbol">XMR</string>
+    <string name="megahash_per_second_symbol">Mh/s</string>
+    
+    <string name="null_string"></string>
+</resources>
